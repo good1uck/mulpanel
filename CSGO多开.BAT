@@ -1,0 +1,5 @@
+@echo off
+start "" steam -applaunch 730 -allowmultiple -novid -nojoy -high  -limitvsconst  -softparticlesdefaultoff -sw -w 960 -h 540 +exec jzh.cfg +mm_csgo_community_search_players_min 1 +mm_dedicated_search_maxping 350 +mat_disable_fancy_blending 1 +cl_forcepreload 0 +r_dynamic 0
+start "" steam -applaunch 730 -allowmultiple -novid -nojoy -high  -limitvsconst  -softparticlesdefaultoff -sw -w 960 -h 540 +exec jzh.cfg +mm_csgo_community_search_players_min 1 +mm_dedicated_search_maxping 350 +mat_disable_fancy_blending 1 +cl_forcepreload 0 +r_dynamic 0
+start "" steam -applaunch 730 -allowmultiple -novid -nojoy -high  -limitvsconst  -softparticlesdefaultoff -sw -w 960 -h 540 +exec jzh.cfg +mm_csgo_community_search_players_min 1 +mm_dedicated_search_maxping 350 +mat_disable_fancy_blending 1 +cl_forcepreload 0 +r_dynamic 0
+start "" steam -applaunch 730 -allowmultiple -novid -nojoy -high  -limitvsconst  -softparticlesdefaultoff -sw -w 960 -h 540 +exec jzh.cfg +mm_csgo_community_search_players_min 1 +mm_dedicated_search_maxping 350 +mat_disable_fancy_blending 1 +cl_forcepreload 0 +r_dynamic 0
